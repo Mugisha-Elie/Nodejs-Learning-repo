@@ -1,0 +1,2 @@
+[User] purchased a new dog
+[admin] was not happy about it
